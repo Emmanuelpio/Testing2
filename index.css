@@ -1,0 +1,57 @@
+.main1{
+    background-color: gray;
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+.leftdiv{
+    color: white;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+.rightdiv{
+    padding-left: 750px;
+    padding-top: 15px;
+}
+
+    
+
+.left2div{
+    width: 100%;
+    height: 200px;
+    display: flex;
+   
+}
+
+h2{
+    font-weight: bolder;
+    padding-top: 23px;
+}
+h6{
+    padding-left: 40px;
+    padding-top: 0.01px;
+    margin: 0px;
+}
+.wild{
+    padding-left: 0.2px;
+}
+
+.safari1{
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.main2a{
+    display: flex;
+    width: 100%;
+}
+
+
+.navy{
+    padding-left: 200px;
+    padding-top: 20px;
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+   
+}
